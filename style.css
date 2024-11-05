@@ -1,0 +1,232 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.image1{
+    width: 100%;
+    height: 600px;
+    background-image: url(image/spaceplace.png);
+    background-size:cover;
+    object-fit: contain;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    position: relative;
+    right: -44px;
+    height: 70px;
+    top: 17px;
+}
+
+.ul{
+    list-style: none;
+}
+ul li{
+    color: white;
+}
+ul li p{
+    display: inline;
+    position: relative;
+    padding: 13px;
+    left: 298px;
+    bottom: 30px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+.menue{
+    display: inline;
+    position: relative;
+    left: 1200px;
+    height: 40px;
+    bottom: 56px;
+}
+.upcoming{
+    display: inline;
+    color: white;
+    position: relative;
+    top: 220px;
+    left: -12px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.starlink{
+    display: inline;
+    color: white;
+    position: relative;
+    top: 274px;
+    left: -203px;
+    font-size: 41px;
+    font-weight: bold;
+}
+.button1{
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    position: relative;
+    top: 345px;
+    left: -603px;
+    height: 54px;
+    width: 175px;
+    
+
+}
+.image2{
+    width: 100%;
+    height: 600px;
+    background-image: url(image/star.jpg);
+    background-size:cover;
+    object-fit: contain;
+    background-repeat: no-repeat;
+}
+.completed{
+    display: inline;
+    color: white;
+    position: relative;
+    top: 250px;
+    font-size: 20px;
+    left: 55px;
+
+}
+.crew{
+    display: inline-block;
+    color: white;
+    position: relative;
+    top: 340px;
+    left: -155px;
+    font-size: 40px;
+
+}
+.button2{
+    background: transparent;
+    border: 2px solid white;
+    color: white;
+    position: relative;
+    top: 390px;
+    left: -580px;
+    height: 54px;
+    width: 175px;
+}
+
+.video{
+    width: 100%;
+}
+.video-section{
+    height: 706px;
+}
+
+
+
+.recent{
+    display: inline;
+    position: relative;
+    color: white;
+    bottom: 355px;
+    left: 75px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.star{
+    display: inline-block;
+    color: white;
+    position: relative;
+    top: -260px;
+    left: -105px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.button3{
+    border: 2px solid white;
+    color: white;
+    display: inline;
+    position: relative;
+    bottom: 204px;
+    background-color: transparent;
+    width: 175px;
+    height: 55px;
+    right: 468px;
+    font-weight: bold;
+}
+.image3{
+    width: 100%;
+    height: 600px;
+    background-image: url(image/man.jpg);
+    background-size:cover;
+    object-fit: contain;
+    background-repeat: no-repeat;
+}
+.advancing{
+    display: inline-block;
+    color: white;
+    position: relative;
+    top: 315px;
+    left: 70px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.button4{
+    border: 2px solid white;
+    color: white;
+    display: inline;
+    position: relative;
+    background-color: transparent;
+    width: 175px;
+    height: 55px;
+    left: -341px;
+    font-weight: bold;
+    top: 380px;
+}
+.image4{
+    width: 100%;
+    height: 600px;
+    background-image: url(image/rocket.jpg);
+    background-size:cover;
+    object-fit: contain;
+    background-repeat: no-repeat;
+}
+.to{
+    display: inline-block;
+    color: white;
+    position: relative;
+    top: 315px;
+    left: 70px;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.button5{
+    border: 2px solid white;
+    color: white;
+    display: inline;
+    width: 175px;
+    height: 55px;
+    position: relative;
+    background-color: transparent;
+    font-weight: bold;
+    top: 380px;
+    left: -307px;
+}
+.footer{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    color: white;
+}
+.footer p{
+    display: inline;
+    position: relative;
+    padding: 10px;
+    left: 470px;
+    top: 33px;
+    font-size: 13px;
+
+}
+.footer-text1{
+    color: rgb(230, 230, 230);
+}
+
+
+
+
+
